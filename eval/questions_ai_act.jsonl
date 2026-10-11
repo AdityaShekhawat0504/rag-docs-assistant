@@ -1,0 +1,12 @@
+{"q": "What is the maximum fine for using a prohibited AI practice?", "expect": "35 000 000"}
+{"q": "Which AI practices using subliminal techniques are prohibited?", "expect": "subliminal"}
+{"q": "When must the technical documentation of a high-risk AI system be drawn up?", "expect": "drawn up before"}
+{"q": "What must the technical documentation in Annex IV contain first?", "expect": "general description of the ai system"}
+{"q": "What transparency obligations apply to deep fakes?", "expect": "deep fake"}
+{"q": "When does the regulation enter into force?", "expect": "twentieth day"}
+{"q": "What does the regulation require regarding human oversight of high-risk AI systems?", "expect": "human oversight"}
+{"q": "What quality criteria apply to training, validation and testing data sets?", "expect": "validation and testing data sets"}
+{"q": "What is a post-market monitoring system?", "expect": "post-market monitoring"}
+{"q": "How must providers report serious incidents?", "expect": "serious incident"}
+{"q": "What does the regulation say about AI literacy of staff?", "expect": "ai literacy"}
+{"q": "What is an AI regulatory sandbox?", "expect": "ai regulatory sandbox"}
